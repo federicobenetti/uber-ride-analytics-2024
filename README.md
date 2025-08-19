@@ -79,4 +79,4 @@ Then open the local URL Streamlit shows.
 ---
 
 ## 📝 License
-MIT — see `LICENSE` (add if you plan to open-source).
+N/A
